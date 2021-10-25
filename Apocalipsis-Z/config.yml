@@ -1,0 +1,7 @@
+Config:
+    Stop: false
+
+World-Permissions:
+    List:
+    - world
+    - world_the_end    

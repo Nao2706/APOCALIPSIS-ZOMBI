@@ -1,0 +1,10 @@
+version: 1.0.0
+name: Zombi-Day
+main: me.nao.zombi.Main
+api-version: 1.16
+author: nao
+description: zombi
+
+commands: 
+     az:
+        description: Comando de op 
